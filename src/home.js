@@ -7,7 +7,7 @@ const homePage = () => {
         <p><em>Ember is a luxurious cocktail bar.</em></p>
         <p><em>We cater to those who enjoy the finer things in life.</em></p>
         <p><em>We aim to provide you with a world class experience.</em></p>
-        <img src="/src/images/bar.jpg" class="home-img">
+        <img src="bar.jpg" class="home-img">
         <div class="opening">
         <table>
             <tr>

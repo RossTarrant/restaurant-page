@@ -4,7 +4,7 @@ const createNav = () => {
     navbar.innerHTML = `
     <div class="nav">
         <div>
-            <img src='/src/images/logo.png' width=100px>
+            <img src='logo.png' width=100px>
         </div>
         <button>Home</button>
         <button>Menu</button>
